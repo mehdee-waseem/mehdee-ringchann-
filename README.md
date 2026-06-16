@@ -3,10 +3,10 @@ Here’s your updated **GitHub README** with the revised introduction:
 ---
 
 # 💫 About Me  
-I am a **Master's student in Embedded Systems Security** at **Grenoble-INP Esisar**, passionate about **IoT, cybersecurity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
+I am a **Master's student in Computer Science** at **INSA Haute-de-France**, passionate about **IoT, cybersecurity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
 
 🔹 **Tech Stack:** C, C++, Python, JavaScript | Embedded & IoT Security | Cryptography | Networking  
-🔹 **Interests:** IoT Security, Embedded Systems, Vulnerability Assessment, Secure Network Architectures  
+🔹 **Interests:** IoT Security, database Systems, Vulnerability Assessment, Secure Network Architectures  
 🔹 **Projects:** IoT Security Assessments, Smart Parking Systems, Secure Network Designs  
 
 📫 Let's connect!  
