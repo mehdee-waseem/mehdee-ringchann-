@@ -1,4 +1,3 @@
-# 💫 About Me  
 I am a **Master's student in Computer Science** at **INSA Haute-de-France**, passionate about **IoT, cybersecurity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
 
 🔹 **Tech Stack:** C, C++, Python, JavaScript | Embedded & IoT Security | Cryptography | Networking | Optimization (OR-Tools) | PostgreSQL/PostGIS  
@@ -10,8 +9,6 @@ I am a **Master's student in Computer Science** at **INSA Haute-de-France**, pas
 📫 Let's connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdeewaseem)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://linktr.ee/mehdee.waseem)  
-
----
 
 # 🚀 Recent Projects
 
@@ -25,15 +22,7 @@ I am a **Master's student in Computer Science** at **INSA Haute-de-France**, pas
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,django,jquery,fastapi,react,aws,linux,kubernetes,gitlab,tensorflow,pytorch)](https://skillicons.dev)
-
----
-
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mehdee-waseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehdee-waseem&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdee-waseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-
----
+ 
 
 ### ✍️ Quote of the Day  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
