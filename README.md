@@ -1,13 +1,11 @@
-Here’s your updated **GitHub README** with the revised introduction:  
-
----
-
 # 💫 About Me  
 I am a **Master's student in Computer Science** at **INSA Haute-de-France**, passionate about **IoT, cybersecurity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
 
 🔹 **Tech Stack:** C, C++, Python, JavaScript | Embedded & IoT Security | Cryptography | Networking  
-🔹 **Interests:** IoT Security, database Systems, Vulnerability Assessment, Secure Network Architectures  
+🔹 **Interests:** IoT Security, Database Systems, Vulnerability Assessment, Secure Network Architectures  
 🔹 **Projects:** IoT Security Assessments, Smart Parking Systems, Secure Network Designs  
+
+💼 Currently seeking opportunities to collaborate on exciting projects where I can contribute my expertise in software development, IoT/network security, and data-driven optimization to drive innovation and create impactful, real-world solutions. Let's connect and explore how we can work together to bring ideas to life!
 
 📫 Let's connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdeewaseem)  
@@ -15,40 +13,27 @@ I am a **Master's student in Computer Science** at **INSA Haute-de-France**, pas
 
 ---
 
-# 💻 Tech Stack  
-### **Programming & Development**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+# 🚀 Recent Projects
 
-### **Embedded Systems & IoT**  
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-%23C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![FPGA](https://img.shields.io/badge/FPGA-%23FF9A00.svg?style=for-the-badge&logo=fpga&logoColor=black)  
-![MQTT](https://img.shields.io/badge/MQTT-%2300A3E0.svg?style=for-the-badge&logo=mqtt&logoColor=white)  
+- 🚦 [**poznan-intersection-15**](https://github.com/mehdee-waseem/poznan-intersection-15) - PTV Vissim traffic microsimulation of a signalized intersection in Poznań, Poland
+- 🏥 [**nurse-rostering-optimization**](https://github.com/mehdee-waseem/nurse-rostering-optimization) - Nurse Rostering Problem solved as an ILP - greedy heuristic vs MIP (OR-Tools CP-SAT) compared across 24 real instances, with full report and results
+- 🍕 [**desma-pizza-ontology**](https://github.com/mehdee-waseem/desma-pizza-ontology) - Pizza domain OWL ontology built in Protégé with custom classes, restrictions, and SPARQL queries (DESMA course, PR2 & PR3)
+- 🚆 [**vbb-smartdelay**](https://github.com/mehdee-waseem/vbb-smartdelay) - Real-time transit delay prediction for central Berlin, combining VBB, weather, and bike-share data via a PostgreSQL + PostGIS pipeline
 
-### **Security & Networking**  
-![OpenSSL](https://img.shields.io/badge/OpenSSL-%23007396.svg?style=for-the-badge&logo=openssl&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-%231A1B41.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Firewall](https://img.shields.io/badge/Firewall-%23000000.svg?style=for-the-badge&logo=firewall&logoColor=white)  
+---
 
-### **Tools & Version Control**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,django,jquery,fastapi,react,aws,linux,kubernetes,gitlab,tensorflow,pytorch)](https://skillicons.dev)
 
 ---
 
 # 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=mehdee-ringchann&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=mehdee-ringchann&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdee-ringchann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=mehdee-waseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mehdee-waseem&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdee-waseem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
 ### ✍️ Quote of the Day  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)  
-
----
-
-This version keeps it **clean, professional, and up-to-date**. Let me know if you'd like any more refinements! 🚀
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
