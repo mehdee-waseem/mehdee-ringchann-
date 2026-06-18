@@ -1,9 +1,9 @@
 # 💫 About Me  
 I am a **Master's student in Computer Science** at **INSA Haute-de-France**, passionate about **IoT, cybersecurity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
 
-🔹 **Tech Stack:** C, C++, Python, JavaScript | Embedded & IoT Security | Cryptography | Networking  
-🔹 **Interests:** IoT Security, Database Systems, Vulnerability Assessment, Secure Network Architectures  
-🔹 **Projects:** IoT Security Assessments, Smart Parking Systems, Secure Network Designs  
+🔹 **Tech Stack:** C, C++, Python, JavaScript | Embedded & IoT Security | Cryptography | Networking | Optimization (OR-Tools) | PostgreSQL/PostGIS  
+🔹 **Interests:** IoT Security, Combinatorial Optimization, Transportation & Network Modeling, Semantic Web/Ontologies, Database Systems  
+🔹 **Recent Work:** Traffic Microsimulation, ILP/MIP Optimization, Ontology Engineering, Real-Time Data Pipelines  
 
 💼 Currently seeking opportunities to collaborate on exciting projects where I can contribute my expertise in software development, IoT/network security, and data-driven optimization to drive innovation and create impactful, real-world solutions. Let's connect and explore how we can work together to bring ideas to life!
 
