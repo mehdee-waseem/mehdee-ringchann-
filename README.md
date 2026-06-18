@@ -1,4 +1,4 @@
-I am a **Master's student in Computer Science** at **INSA Haute-de-France**, passionate about **IoT, cybersecurity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
+I am a **Master's student in Computer Science** at **INSA Haute-de-France**, passionate about **IoT, netwrok# secuity, and software development**. My background in **software engineering** and hands-on experience in **embedded systems, firmware development, and network security** drive me to build **secure and scalable solutions**.  
 
 🔹 **Tech Stack:** C, C++, Python, JavaScript | Embedded & IoT Security | Cryptography | Networking | Optimization (OR-Tools) | PostgreSQL/PostGIS  
 🔹 **Interests:** IoT Security, Combinatorial Optimization, Transportation & Network Modeling, Semantic Web/Ontologies, Database Systems  
